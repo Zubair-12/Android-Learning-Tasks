@@ -34,6 +34,7 @@
         android:textAlignment="center"
         android:textSize="160sp"
         android:textStyle="bold"
+        android:layout_weight="1"
         tools:ignore="MissingConstraints,RtlCompat" />
 
     <Button
